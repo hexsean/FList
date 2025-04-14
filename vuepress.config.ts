@@ -42,7 +42,7 @@ export default defineUserConfig({
         userName:"hxtg",
         datasetsName:"Flist_repo",
         branchName:"main",
-        maxDeep:3
+        maxDeep:5
       }),
       downProxy:cloudflarePagesDownProxy(),
     },
